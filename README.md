@@ -1,4 +1,4 @@
-# Python ARP Network Scanner
+# Python ARP Table Reader
 
 A simple Python learning project that reads the local ARP table and extracts detected IP addresses.
 
