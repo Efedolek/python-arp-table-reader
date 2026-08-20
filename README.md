@@ -21,7 +21,7 @@ A simple Python learning project that reads the local ARP table and extracts det
 ## How to run
 
 ```bash
-python3 my_scanner.py
+python3 arp_table_reader.py
 ```
 
 ## About
